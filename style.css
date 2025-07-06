@@ -1,0 +1,49 @@
+body {
+    background-color: #f7f7fa;
+    color: #222;
+    padding: 0;
+    margin: 0;
+}
+#title {
+    color: #4a148c;
+    text-align: center;
+}
+
+.list {
+    
+    padding-left: 20px;
+    width: 80%;
+    margin: auto;
+}
+p {
+    color: #333;
+}
+section {
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #9c27b0;
+    border-radius: 100px;
+    max-width: 700px;     
+    background-color: #fff;
+}
+
+h2,#email{
+    text-align: center;
+}
+
+table {
+    margin: 20px auto;
+    text-align: center;
+    border: 2px solid #9c27b0;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+th, td {
+    border: 1px solid #9c27b0;
+    padding: 10px;
+}
+
+th {
+    background-color: #e1bee7;
+}
